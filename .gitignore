@@ -1,0 +1,19 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# داده‌ها و خروجی‌های حجیم
+
+
+figures/
+*.csv.zip
+*.rds.zip
+
+# اسرار و تنظیمات
+.Renviron
+.env
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
